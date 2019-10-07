@@ -41,3 +41,9 @@ div .highlight {
 .well {
     background: rgba(0, 0, 0, 0.01);
 }
+
+body .toc-wrapper .logo {
+  margin: 16px auto 0 auto;
+  max-height: 120px;
+}
+
